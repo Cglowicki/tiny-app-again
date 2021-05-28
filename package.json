@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Cglowicki/tiny-app-again/issues"
   },
-  "homepage": "https://github.com/Cglowicki/tiny-app-again#readme"
+  "homepage": "https://github.com/Cglowicki/tiny-app-again#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
